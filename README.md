@@ -4,7 +4,7 @@ A simple but effective little module. An active buffer build around the TL074 & 
 
 Ps. On the silkscreen is a small typo; it should note “2×3 / 1×7” instead of “2×3 / 1×6”, this is fixed in the schematics & PCB design.
 
-## Status
+## Status: Finished
 
 - done: first schematic & board design
 - done: breadboard and test
